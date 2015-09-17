@@ -4,5 +4,6 @@
 Whatever
 ```
 [GitHub](github.com)
-![alt text](phase-0-gps-1/cats-animals-kittens-background.jpg)
-This is MORE conflicting!
+![kitten picture](phase-0-gps-1/cats-animals-kittens-background.jpg)
+This is conflicting!
+
