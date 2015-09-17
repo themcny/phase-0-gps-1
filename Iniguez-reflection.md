@@ -8,7 +8,7 @@ The term origin is just the default name given to the remote repo, like how mast
 
 ### What questions did you ask your pair and the guide?
 
-I asked the them how I'm able to be more efficient in my use of git by avoiding having to put in the GitHub username and password after every commit. Other than that, most of the things were fairly straight forward.
+I asked the them how I'm able to be more efficient in my use of git by avoiding having to put in the GitHub username and password after every push. Other than that, most of the things were fairly straight forward.
 
 ### What still confuses you about git?
 
